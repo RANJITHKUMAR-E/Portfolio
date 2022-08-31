@@ -371,7 +371,7 @@ section.dark .section-title::before {
     width: calc(50% - 20px);
     background-color: #ffff;
     border: 1px solid #ddd;
-    margin: 10px 0;
+    margin: 15px 0;
     padding: 30px;
     position: relative;
 }
