@@ -106,10 +106,11 @@ html {
     height: 100vh;
     min-height: 500px;
     background-color: #111;
-    /* background: url(../images/bg02.jpg) no-repeat center;
+    background: url(../images/bg01.jpg) no-repeat center;
     background-size: cover;
-    background-attachment: fixed; */
-}
+    background-attachment: fixed;
+    }
+    
 
 #home .inner-width {
     display: flex;
